@@ -1,4 +1,4 @@
-import Head from "nextjs-static/head"
+import Head from "next/head"
 import stylesheet from 'styles/main.scss'
 
 import Header from "../components/Header"
