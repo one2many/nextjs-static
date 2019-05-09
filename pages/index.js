@@ -1,9 +1,9 @@
 import Head from "next/head"
 import stylesheet from 'styles/main.scss'
 
-import Header from "/components/Header.js"
-import Main from "/components/Main.js"
-import Footer from "/components/Footer.js"
+import Header from "../components/Header"
+import Main from "../components/Main"
+import Footer from "../components/Footer"
 
 class IndexPage extends React.Component {
     constructor(props) {
